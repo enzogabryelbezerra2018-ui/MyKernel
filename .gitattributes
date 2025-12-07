@@ -1,2 +1,5 @@
-*.drv linguist-language=C
-*.drv linguist-language=Assembly
+asm_*.drv linguist-language=Assembly
+c_*.drv linguist-language=C
+systemconf_*.sys linguist-language=MyKernel System file
+systemdriverconfig_*.sys linguist-language=MyKernel System file
+system_*.sys linguist-language=MyKernel System file
