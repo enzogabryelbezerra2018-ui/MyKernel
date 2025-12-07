@@ -1,0 +1,9 @@
+[VM]
+FUNCS:
+"adb_vm",'--adb .../mkdeol.img',
+"restart_vm", '--restart .../mkdeol.img'
+JMP NULL
+STRING = %s
+%s, ;texto
+%n, ;numero
+%r  ;reset
