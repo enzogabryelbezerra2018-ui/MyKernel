@@ -3,4 +3,4 @@ c_*.drv linguist-language=C
 systemconf_*.sys linguist-language=MyKernel System file
 systemdriverconfig_*.sys linguist-language=MyKernel System file
 system_*.sys linguist-language=MyKernel System file
-*.mkeol linguist-language=MyKernel do Enzo Oficial Linguagem
+*.mkdeol linguist-language=MyKernel do Enzo Oficial Linguagem
