@@ -1,0 +1,23 @@
+[user]
+    name = EnzoDev
+    email = enzogabryelbezerra2018@gmail.com
+
+[core]
+    editor = nano
+    autocrlf = false
+
+[alias]
+    s = status
+    co = checkout
+    cm = commit -m
+    br = branch
+    lg = log --oneline --graph
+
+[color]
+    ui = true
+
+[credential]
+    helper = store
+
+[http]
+    sslVerify = true
