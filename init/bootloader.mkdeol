@@ -1,0 +1,10 @@
+#IMPORT LOAD
+[BITS: %n]
+.load = boot.img;
+.load = drivers.img;
+.load = vendor.img;
+.load = boot.init;
+.boot:
+*.img
+*.init
+*.bootable
